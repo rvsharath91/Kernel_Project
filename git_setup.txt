@@ -1,0 +1,8 @@
+-------------------------------------|
+echo "# Kernel_Project" >> README.md |
+git init                             | only do it for first time
+-------------------------------------|
+git add <filename.fileformat>
+git commit -m "comment"
+git remote add origin https://github.com/rvsharath91/Kernel_Project.git
+git push -u origin master
